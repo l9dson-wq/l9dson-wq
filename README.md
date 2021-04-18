@@ -9,4 +9,4 @@ but in the future I want to learn (and I need) other programming languages.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l9dson-wq)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l9dson-wq&show_icons=true&theme=tokyonight)
