@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/69158247/115067470-fb2df500-9ebe-11eb-978b-bce8fb62bac1.png)
+![Facebook Cover 851x315 px(1)](https://user-images.githubusercontent.com/69158247/115163435-17749200-a077-11eb-8684-b1736b11bec0.png)
+
 
 I'm a student of software development 👨🏼‍🎓 and I very happy to be here in the community of github.
 
