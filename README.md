@@ -7,6 +7,4 @@ I'm a student of software development 👨🏼‍🎓 and I very happy to be her
 At the moment I'm work with: 🔵 Python.
 but in the future I want to learn (and I need) other programming languages.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l9dson-wq)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l9dson-wq&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l9dson-wq&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
