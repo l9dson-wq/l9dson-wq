@@ -4,10 +4,5 @@
 
 I'm a student of software development 👨🏼‍🎓 and I very happy to be here in the community of github.
 
-At the moment I'm work with:
-  
-🔵 Python.
-
-🔵 A little c++.
-
+At the moment I'm work with: 🔵 Python.
 but in the future I want to learn (and I need) other programming languages.
