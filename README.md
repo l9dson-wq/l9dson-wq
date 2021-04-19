@@ -8,4 +8,4 @@
 
 <img src="https://user-images.githubusercontent.com/69158247/115163590-e5176480-a077-11eb-8b1a-9f1e1281cd37.png" alt="alt text" width="50" height="50"> <img src="https://user-images.githubusercontent.com/69158247/115163670-653dca00-a078-11eb-8fa7-002fd0d9ea06.png" alt="alt text" width="50" height="50">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l9dson-wq&layout=compact&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l9dson-wq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
