@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C#, .NET CORE, Javascript, SqlServer, Angular, Node, Bootstrap**
 
-- 🤝 I’m looking for help with **everything I can**
+- 🤝 I’m interest in work in an open source project **if it's posibly to me**
 
 - 📫 How to reach me **andelsonprogrammer@gmail.com**
 
