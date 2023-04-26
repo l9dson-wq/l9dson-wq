@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Andelson Lopez</h1>
 <h3 align="center">A passionate student in software development from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **C#, .NET CORE, Javascript, SqlServer, Angular, Node, Bootstrap**
-
-- 🤝 I’m interest in work in an open source project **if it's possibly to me**
-
 - 📫 How to reach me **andelsonprogrammer@gmail.com**
 
 <p align="left">
