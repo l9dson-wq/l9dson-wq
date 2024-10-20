@@ -1,10 +1,13 @@
-
-# ledson
-I'm just learning stuff in what I'm interested on, 
-have fun in the path, learn new things, and craft
-awesome things.
-
-* I use arch linux btw
-* Tying to be better
-* Love using nvim as my editor
-* Randomly
+ _______________________________________
+/ # ledson                             \
+| Just hopping through the world of    |
+| code, learning and creating.         |
+|                                      |
+| * Arch Linux user                    |
+| * Neovim lover                       |
+| * Always growing, always coding      |
+|                                      |
+----------------------------------------
+   \  (\(\ 
+    \ ( -.-)
+      o_(")(")
