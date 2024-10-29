@@ -13,4 +13,3 @@
     \ ( -.-)
       o_(")(")
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9dson-wq&theme=default)
