@@ -1,15 +1,12 @@
 ```code
- _______________________________________
-/ # ledson                             \
-| Just hopping through the world of    |
-| code, learning and creating.         |
-|                                      |
-| * Arch Linux user                    |
-| * Neovim lover                       |
-| * Always growing, always coding      |
-|                                      |
-----------------------------------------
+ledson
    \  (\(\ 
     \ ( -.-)
       o_(")(")
 ```
+Just hopping through the world of    
+code, learning and creating.         
+                                      
+* Arch Linux user                    
+* Neovim lover                       
+* Always growing, always coding      
