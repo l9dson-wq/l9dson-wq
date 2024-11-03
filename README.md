@@ -1,4 +1,4 @@
-![Alt text](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi8ltwa7ywxjc1.gif)
+![image](https://github.com/user-attachments/assets/ab870a1c-30b4-444d-a1a5-823f8d5c1588)
 
 ```code
 ledson
