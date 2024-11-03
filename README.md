@@ -1,4 +1,4 @@
-![Alt text](https://i.redd.it/shrug-emoji-v0-kpg6mnsywxjc1.png?width=2934&format=png&auto=webp&s=fe3380e2d7b706ae66b305f12341332e3ac81a15)
+![Alt text](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi8ltwa7ywxjc1.gif)
 
 ```code
 ledson
