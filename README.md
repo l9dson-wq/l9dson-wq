@@ -9,6 +9,6 @@
 Just hopping through the world of    
 code, learning and creating.         
                                       
-* Arch Linux user                    
+* I use arch BTW                    
 * Neovim lover                       
 * Always growing, always coding      
